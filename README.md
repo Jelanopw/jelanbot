@@ -1,4 +1,4 @@
-# Hisoka-Morou
+# NOUS
 Script WhatsApp Bot Multi Device
 
 ## NOTE
@@ -7,15 +7,15 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 <p align="center">
 	<img src="https://telegra.ph/file/588b327d1098951bc7d8e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Hisoka-Morou</h1>
+<h1 align="center">NOUS</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
 ## My Project
-* New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow)
-* WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
-* WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/Hisoka-Morrou/hisoka-waweb.js/)
+* New script to replace this script [`look here`](https://github.com/jelannous/jelanbot) (`Support Legacy or Baileys`)
+* WhatsApp Bot normal [`Nous`](https://github.com/jelannous/jelanbot)
+* WhatsApp Bot Multi Device [`Nous`](https://github.com/jelannous/jelanbot)
+* WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/jelannous/jelanbot-waweb.js/)
 
 
 ## UNTUK PENGGUNA WINDOWS/RDP
@@ -31,7 +31,7 @@ cd jelanbot
 npm install
 ```
 
-## HOW TO CONNECT TO MONGODB WHEN RUN IN HEROKU
+## HOW TO CONNECT TO NOUS
 
 * Create account and database in mongodb atlas [`watch here`](https://github.com/jelannous)
 * when you already have a database, you just need to take mongourl
@@ -74,7 +74,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Nurutomo`](https://github.com/jelannous)
+* [`Nous`](https://github.com/jelannous)
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
