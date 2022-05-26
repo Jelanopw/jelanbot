@@ -15,7 +15,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 * New script to replace this script [`look here`](https://github.com/jelannous/jelanbot) (`Support Legacy or Baileys`)
 * WhatsApp Bot normal [`Nous`](https://github.com/jelannous/jelanbot)
 * WhatsApp Bot Multi Device [`Nous`](https://github.com/jelannous/jelanbot)
-* WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/jelannous/jelanbot-waweb.js/)
+* WhatsApp Bot Using Library whatsapp-web.js [`nous-waweb.js`](https://github.com/jelannous/jelanbot-waweb.js/)
 
 
 ## UNTUK PENGGUNA WINDOWS/RDP
